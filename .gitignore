@@ -1,0 +1,7 @@
+.venv
+
+__pycache__
+
+sign_mnist_test.csv
+
+sign_mnist_train.csv
